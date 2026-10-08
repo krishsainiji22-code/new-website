@@ -1,10 +1,12 @@
 .box{
     color:blue;
 }
+
 body{
     color:blue;
-    background-color:black;
+    background-color:rgb(66, 81, 131);
 }
+
 p{
 
     font-family: 'Times New Roman', Times, serif;
